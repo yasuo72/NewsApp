@@ -16,36 +16,36 @@ class MainActivity : AppCompatActivity() {
     private lateinit var recyclerView: RecyclerView
     private lateinit var newsAdapter: NewsAdapter
     private val repository = Repository()
-    private val apiKey = "197ae23677cc4a1c8d8aeba319d4ee9b" // Replace with your News API key
+    private val apiKey = "your.api.key" // Replace with your News API key
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        // Set up Toolbar
+        
         val toolbar: androidx.appcompat.widget.Toolbar = findViewById(R.id.toolbar)
         setSupportActionBar(toolbar)
 
-        // Set up RecyclerView
+        
         recyclerView = findViewById(R.id.recycler_view)
         recyclerView.layoutManager = LinearLayoutManager(this)
 
         fetchNews()
 
-        // Set up Bottom Navigation
+       
         val bottomNavigation: BottomNavigationView = findViewById(R.id.bottom_navigation)
         bottomNavigation.setOnItemSelectedListener { item ->
             when (item.itemId) {
                 R.id.nav_home -> {
-                    // Handle home click
+                    
                     true
                 }
                 R.id.nav_favorites -> {
-                    // Handle favorites click
+                    
                     true
                 }
                 R.id.nav_settings -> {
-                    // Handle settings click
+                    
                     true
                 }
                 else -> false
