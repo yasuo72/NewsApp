@@ -48,6 +48,9 @@ kapt("com.github.bumptech.glide:compiler:4.15.1")
 implementation("androidx.recyclerview:recyclerview:1.2.1")
 ```
 
+## Screenshots
+![Home Screen](https://github.com/yourusername/NewsApp/blob/main/screenshots/home.png)
+![Article View](https://github.com/yourusername/NewsApp/blob/main/screenshots/article.png)
 
 
 
