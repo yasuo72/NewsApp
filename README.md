@@ -25,7 +25,7 @@
 ## 🎯 Screenshots
 
 <div align="center">
-  <img src="https://github.com/yasuo72/NewsApp/blob/main/Screenshot%202025-02-13%20051936.png?raw=true" width="250px" alt="Home Screen">
+  <img src="https://github.com/yasuo72/NewsApp/blob/main/Screenshot%202025-02-13%20051936.png?raw=true" width="280px" alt="Home Screen">
   <img src="https://github.com/yasuo72/NewsApp/blob/main/Screenshot%202025-02-13%20052242.png?raw=true" width="230px" alt="Article View">
   <img src="screenshots/dark_mode.png" width="250px" alt="Dark Mode">
 </div>
