@@ -27,7 +27,7 @@
 <div align="center">
   <img src="https://github.com/yasuo72/NewsApp/blob/main/Screenshot%202025-02-13%20051936.png?raw=true" width="280px" alt="Home Screen">
   <img src="https://github.com/yasuo72/NewsApp/blob/main/Screenshot%202025-02-13%20052242.png?raw=true" width="230px" alt="Article View">
-  <img src="screenshots/dark_mode.png" width="250px" alt="Dark Mode">
+ 
 </div>
 
 ## 🛠️ Technology Stack
@@ -195,10 +195,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 <div align="center">
-  <p>Made with ❤️ by Your Name</p>
+  <p>Made with ❤️ by Rohit</p>
   <p>
-    <a href="https://github.com/yourusername">GitHub</a> •
+    <a href="https://github.com/yasuo72">GitHub</a> •
     <a href="https://twitter.com/yourusername">Twitter</a> •
-    <a href="https://linkedin.com/in/yourusername">LinkedIn</a>
+    <a href="https://linkedin.com/in/rohit-singh-47b9a0302/">LinkedIn</a>
   </p>
 </div> 
